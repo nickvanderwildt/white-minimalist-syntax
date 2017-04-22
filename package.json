@@ -1,0 +1,18 @@
+{
+  "name": "white-minimalist-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "White minimalist theme, white background - black syntax",
+  "keywords": [
+    "syntax",
+    "theme",
+    "minimalist",
+    "black",
+    "white"
+  ],
+  "repository": "https://github.com/atom/white-minimalist-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
