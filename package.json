@@ -10,7 +10,7 @@
     "black",
     "white"
   ],
-  "repository": "https://github.com/atom/white-minimalist-syntax",
+  "repository": "https://github.com/nickvanderwildt/white-minimalist-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
